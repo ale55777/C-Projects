@@ -1,0 +1,10 @@
+START
+a = 100
+bb = 200
+z1 = x + y
+w = z - 5
+DISPLAY x
+DISPLAY y
+DISPLAY z
+DISPLAY w
+END
